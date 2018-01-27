@@ -70157,7 +70157,7 @@ var debugs = {};
 var debugEnviron;
 exports.debuglog = function(set) {
   if (isUndefined(debugEnviron))
-    debugEnviron = Object({"NODE_ENV":"production","PUBLIC_URL":"/autograph","REACT_APP_NAME":"Autograph","REACT_APP_INFURA":"uouwrwAV2ydq1UyPqCPa","REACT_APP_GLOBAL_DEBUG":"true"}).NODE_DEBUG || '';
+    debugEnviron = Object({"NODE_ENV":"production","PUBLIC_URL":"","REACT_APP_NAME":"Autograph","REACT_APP_INFURA":"uouwrwAV2ydq1UyPqCPa","REACT_APP_GLOBAL_DEBUG":"true"}).NODE_DEBUG || '';
   set = set.toUpperCase();
   if (!debugs[set]) {
     if (new RegExp('\\b' + set + '\\b', 'i').test(debugEnviron)) {
@@ -82456,4 +82456,4 @@ return hooks;
 
 /***/ })
 ],[949]);
-//# sourceMappingURL=app.d8881792.js.map
+//# sourceMappingURL=app.9d2eaa29.js.map

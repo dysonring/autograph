@@ -91,7 +91,7 @@
 /******/ 		if (__webpack_require__.nc) {
 /******/ 			script.setAttribute("nonce", __webpack_require__.nc);
 /******/ 		}
-/******/ 		script.src = __webpack_require__.p + "static/js/" + ({"0":"app","1":"react","2":"assets"}[chunkId]||chunkId) + "." + {"0":"d8881792","1":"ddf2c124","2":"9eea2da2"}[chunkId] + ".chunk.js";
+/******/ 		script.src = __webpack_require__.p + "static/js/" + ({"0":"app","1":"react","2":"assets"}[chunkId]||chunkId) + "." + {"0":"9d2eaa29","1":"ddf2c124","2":"9eea2da2"}[chunkId] + ".chunk.js";
 /******/ 		var timeout = setTimeout(onScriptComplete, 120000);
 /******/ 		script.onerror = script.onload = onScriptComplete;
 /******/ 		function onScriptComplete() {
@@ -141,7 +141,7 @@
 /******/ 	__webpack_require__.o = function(object, property) { return Object.prototype.hasOwnProperty.call(object, property); };
 /******/
 /******/ 	// __webpack_public_path__
-/******/ 	__webpack_require__.p = "/autograph/";
+/******/ 	__webpack_require__.p = "/";
 /******/
 /******/ 	// on error function for async loading
 /******/ 	__webpack_require__.oe = function(err) { console.error(err); throw err; };
@@ -48369,7 +48369,7 @@ var warning = __webpack_require__(20);
 
 var ReactComponentTreeHook;
 
-if (typeof process !== 'undefined' && Object({"NODE_ENV":"production","PUBLIC_URL":"/autograph","REACT_APP_NAME":"Autograph","REACT_APP_INFURA":"uouwrwAV2ydq1UyPqCPa","REACT_APP_GLOBAL_DEBUG":"true"}) && "production" === 'test') {
+if (typeof process !== 'undefined' && Object({"NODE_ENV":"production","PUBLIC_URL":"","REACT_APP_NAME":"Autograph","REACT_APP_INFURA":"uouwrwAV2ydq1UyPqCPa","REACT_APP_GLOBAL_DEBUG":"true"}) && "production" === 'test') {
   // Temporary hack.
   // Inline requires don't work well with Jest:
   // https://github.com/facebook/react/issues/7240
@@ -49517,7 +49517,7 @@ var warning = __webpack_require__(20);
 
 var ReactComponentTreeHook;
 
-if (typeof process !== 'undefined' && Object({"NODE_ENV":"production","PUBLIC_URL":"/autograph","REACT_APP_NAME":"Autograph","REACT_APP_INFURA":"uouwrwAV2ydq1UyPqCPa","REACT_APP_GLOBAL_DEBUG":"true"}) && "production" === 'test') {
+if (typeof process !== 'undefined' && Object({"NODE_ENV":"production","PUBLIC_URL":"","REACT_APP_NAME":"Autograph","REACT_APP_INFURA":"uouwrwAV2ydq1UyPqCPa","REACT_APP_GLOBAL_DEBUG":"true"}) && "production" === 'test') {
   // Temporary hack.
   // Inline requires don't work well with Jest:
   // https://github.com/facebook/react/issues/7240
@@ -80124,4 +80124,4 @@ exports.default = Toolbar;
 
 /***/ })
 /******/ ]);
-//# sourceMappingURL=vendor.7f28073a.js.map
+//# sourceMappingURL=vendor.d7386710.js.map
