@@ -1,8 +1,8 @@
 {
   "app.css": "static/css/app.af3c2cc5.css",
   "app.css.map": "static/css/app.af3c2cc5.css.map",
-  "app.js": "static/js/app.d8881792.js",
-  "app.js.map": "static/js/app.d8881792.js.map",
+  "app.js": "static/js/app.d8104c78.js",
+  "app.js.map": "static/js/app.d8104c78.js.map",
   "assets.js": "static/js/assets.9eea2da2.js",
   "assets.js.map": "static/js/assets.9eea2da2.js.map",
   "react.js": "static/js/react.ddf2c124.js",
@@ -10,6 +10,6 @@
   "static/media/deal.jpg": "static/media/deal.501cb1c5.jpg",
   "static/media/logo.png": "static/media/logo.b135463b.png",
   "static/media/signature.jpg": "static/media/signature.214992c3.jpg",
-  "vendor.js": "static/js/vendor.7f28073a.js",
-  "vendor.js.map": "static/js/vendor.7f28073a.js.map"
+  "vendor.js": "static/js/vendor.e42593a9.js",
+  "vendor.js.map": "static/js/vendor.e42593a9.js.map"
 }
